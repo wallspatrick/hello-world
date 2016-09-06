@@ -1,2 +1,2 @@
 # hello-world
-My favorite Basketball players in the NBA.
+My name is Patrtick i'm a junior at ITW David Speer Academy, my favorite subject is math because i can understand numbers easier then other things. My favorite class here is Audio Engineering because i like music and it's really fun learn how all the things that are put together to make a song or just a sound. Things i enjoy doing on my own time are playing basktball, watching T.V and listening to music. I love playing the sport of basketball because it's a really good stress reliever. Also it's just really fun to play and you can make money for doing so if you're good enough to play on the pro level. 
