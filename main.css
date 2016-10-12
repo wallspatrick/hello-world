@@ -1,0 +1,15 @@
+img{
+    width: 40%;
+    height: 300px;
+}
+p{
+    text-align: left;
+}
+
+body {
+    background-color: gold;
+}
+
+footer { 
+    display: block;
+}
