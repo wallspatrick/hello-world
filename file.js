@@ -7,7 +7,11 @@ $(document).ready(function() {
    });
 });
 $(document).ready(function() {
-    $('h1').click(function() {
-        $(this).toggleClass('highlighted');
+    $('img').click(function() {
+        $(this).fadeOut('slow');
     });
 });
+$(document).ready(function() {
+    $('button').click(function() {
+        $('#blue').fadeOut('slow');
+    });
